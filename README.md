@@ -1,5 +1,4 @@
 ﻿# Movie Recommendation System
- # Movie Recommendation System
 
 ## Technologice Used 
 - python
